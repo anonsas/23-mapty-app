@@ -12,8 +12,6 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://anonsas.github.io/23-mapty-app/
 
-Design: Inside this project with the name "design.png"
-
 ## Project features
 
 - CSS
